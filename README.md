@@ -1,1 +1,1 @@
-# jenkins-trigger v1
+# jenkins-trigger v2
